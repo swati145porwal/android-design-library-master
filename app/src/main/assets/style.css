@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	color:#8ab36d;
+	/*background-color:#feead5;*/
+	margin-top:100px;
+	
+}
+
+p{
+	font-family:Monospace;
+    font-size:100;
+}
+
+
+.wrap {
+    width: 100%; height: 200px; /* restrict width to viewport */
+    overflow-y: hidden; /* hide vertical scrollbar */
+    overflow-x: scroll; /* show only horizontal scrollbar */
+}
+
+

@@ -1,0 +1,81 @@
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".File_ReaderActivity">
+    <item
+        android:id="@+id/action_TOC"
+        android:title="Table Of Contents"
+        android:orderInCategory="100"
+        android:onClick="DisplayToc"
+        />
+   <!-- <item
+        android:id="@+id/fontbtn"
+        android:title="Change Font"
+        android:orderInCategory="99"
+        android:onClick="changeFont"
+        />-->
+    <item
+        android:id="@+id/ttsbtn"
+        android:title="Speak"
+        android:orderInCategory="98"
+        android:onClick="textToSpeech"
+        />
+    <item
+        android:id="@+id/changefontface"
+        android:title="Change Font"
+        android:orderInCategory="97"
+        >
+        <menu >
+            <item android:id="@+id/ariel"
+                android:title="ARIEL" />
+            <item android:id="@+id/serif"
+                android:title="SERIF" />
+            <item android:id="@+id/monospace"
+                android:title="MONOSPACE" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/changefontsize"
+        android:title="Change Font Size"
+        android:orderInCategory="96"
+        >
+        <menu >
+            <item android:id="@+id/nty"
+                android:title="90%" />
+            <item android:id="@+id/hndrd"
+                android:title="100%" />
+            <item android:id="@+id/ontwofv"
+                android:title="125%" />
+            <item android:id="@+id/onfv"
+                android:title="150%" />
+            <item android:id="@+id/two"
+                android:title="200%" />
+        </menu>
+    </item>
+
+
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:orderInCategory="95"
+
+        />
+
+</menu>

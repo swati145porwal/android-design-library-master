@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="d863f766-f6ec-4296-8b30-da5b9b539667" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.9.26)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>056 The Thirteenth Pearl</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u141cb903-abce-4f0d-ba90-8642cf18144e" playOrder="1">
+      <navLabel>
+        <text>CHAPTER I</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint id="u1233262a-b5de-4bef-9b31-1789b830aeba" playOrder="2">
+      <navLabel>
+        <text>CHAPTER II</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="u83df1b40-de3e-413e-bc62-432540c55bbd" playOrder="3">
+      <navLabel>
+        <text>CHAPTER III</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="ua752e2e9-e493-4dec-9c79-c3d2d221bd57" playOrder="4">
+      <navLabel>
+        <text>CHAPTER IV</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="u3b1de483-655a-4b2b-ac99-4953ea5fc8f4" playOrder="5">
+      <navLabel>
+        <text>CHAPTER V</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="u096202ae-26c1-4abf-a39c-9716d574d8e5" playOrder="6">
+      <navLabel>
+        <text>CHAPTER VI</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="uaa9dbdbe-d95a-42c4-b770-93c108d08625" playOrder="7">
+      <navLabel>
+        <text>CHAPTER VII</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="u6c24d273-d30b-4770-815a-80289c80d765" playOrder="8">
+      <navLabel>
+        <text>CHAPTER VIII</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="u2b00223a-d837-4536-9475-01ceeebffbb9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER IX</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="u5a482a60-5005-44a9-96ef-9bfc635a1240" playOrder="10">
+      <navLabel>
+        <text>CHAPTER X</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint id="u0c37c7f2-b80c-4bca-9ded-1ebf7309cde1" playOrder="11">
+      <navLabel>
+        <text>CHAPTER XI</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="u8630be58-7517-4b52-87a6-462cb416c089" playOrder="12">
+      <navLabel>
+        <text>CHAPTER XII</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+    <navPoint id="ua537a118-1b60-40ec-adc1-4b951e085712" playOrder="13">
+      <navLabel>
+        <text>CHAPTER XIII</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint id="u2648205e-34e9-488d-850b-4a1179a4fec3" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XIV</text>
+      </navLabel>
+      <content src="index_split_014.html"/>
+    </navPoint>
+    <navPoint id="uc0a8d22b-783d-4ee8-8ba3-71725e610301" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XV</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint id="ufeab2ec0-4e44-43d7-958c-601fb55f3069" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XVI</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+    </navPoint>
+    <navPoint id="u25f6c9ee-6e20-4f2b-917e-38b402df5419" playOrder="17">
+      <navLabel>
+        <text>CHAPTER XVII</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint id="u94b58276-f076-4060-8cae-2b2d7058f259" playOrder="18">
+      <navLabel>
+        <text>CHAPTER XVIII</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+    </navPoint>
+    <navPoint id="u0fc2a669-64bb-41fd-9e46-de89b7941e18" playOrder="19">
+      <navLabel>
+        <text>CHAPTER XIX</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint id="u90cbe95f-12ec-4ba7-a997-173da6aee196" playOrder="20">
+      <navLabel>
+        <text>CHAPTER XX</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
